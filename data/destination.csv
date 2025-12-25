@@ -4,3 +4,14 @@ lisbon,Lisbon,Portugal,"Coastal city, walkable, history, cafes",city,mid,summer
 bali,Bali,Indonesia,"Beaches, temples, relaxing, nature",beach,low,summer
 vancouver,Vancouver,Canada,"Mountains, ocean, nature, clean city",nature,high,summer
 barcelona,Barcelona,Spain,"Architecture, nightlife, beach, culture",city,mid,summer
+
+phuket,Phuket,Thailand,"Tropical beaches, islands, nightlife, affordable",beach,low,winter
+miami,Miami,USA,"Sunny beaches, nightlife, luxury shopping",beach,high,winter
+maldives,Maldives,Maldives,"White sand beaches, resorts, crystal clear water",beach,high,winter
+
+banff,Banff,Canada,"Rocky mountains, lakes, hiking, national parks",nature,high,summer
+queenstown,Queenstown,New Zealand,"Lakes, mountains, adventure sports, nature",nature,mid,summer
+interlaken,Interlaken,Switzerland,"Alpine scenery, hiking, lakes, peaceful towns",nature,high,summer
+
+rome,Rome,Italy,"Historic city, ancient architecture, culture, food",city,mid,spring
+bangkok,Bangkok,Thailand,"Busy city, street food, nightlife, temples",city,low,winter
